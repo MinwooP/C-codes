@@ -1,4 +1,19 @@
 # C-codes
-## c언어
- *class*
-## c++
+## identifier's attribute
+ * storage class
+ > automatic
+ 
+ > register
+ 
+ > static
+ 
+ * scope
+ > Block scope
+ 
+ > Function scope
+ 
+ > Global namespace scope
+ 
+ > Function - prototype scope
+ 
+ * linkage
