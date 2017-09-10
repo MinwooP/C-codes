@@ -1,13 +1,13 @@
 # C-codes
 ## identifier's attribute
- * storage class
+ * _storage class_
  > automatic
  
  > register
  
  > static
  
- * scope
+ * _scope_
  > Block scope
  
  > Function scope
@@ -16,4 +16,4 @@
  
  > Function - prototype scope
  
- * linkage
+ * _linkage_
